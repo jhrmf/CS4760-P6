@@ -1,0 +1,1154 @@
+Process 0 requested write of page 8 at time 0.603160
+Process 0 has been approved. Page 8 has been written into frame at address 0
+Process 0 requested write of page 22 at time 0.617240
+Process 0 has been approved. Page 22 has been written into frame at address 1
+Process 0 requested write of page 17 at time 0.631320
+Process 0 has been approved. Page 17 has been written into frame at address 2
+Process 0 requested read of page 15 at time 0.645400
+Process 0 has been approved. Page 15 has been written into frame at address 3
+Process 0 requested write of page 1 at time 0.659440
+Process 0 has been approved. Page 1 has been written into frame at address 4
+Process 0 requested write of page 27 at time 0.673560
+Process 0 has been approved. Page 27 has been written into frame at address 5
+Process 0 requested write of page 5 at time 0.687600
+Process 0 has been approved. Page 5 has been written into frame at address 6
+Process 0 requested write of page 7 at time 0.701640
+Process 0 has been approved. Page 7 has been written into frame at address 7
+Process 0 requested read of page 25 at time 0.715680
+Process 0 has been approved. Page 25 has been written into frame at address 8
+Process 0 requested read of page 18 at time 0.729720
+Process 0 has been approved. Page 18 has been written into frame at address 9
+Process 0 requested write of page 2 at time 0.743840
+Process 0 has been approved. Page 2 has been written into frame at address 10
+Process 0 requested read of page 23 at time 0.757880
+Process 0 has been approved. Page 23 has been written into frame at address 11
+Process 0 requested write of page 26 at time 0.771920
+Process 0 has been approved. Page 26 has been written into frame at address 12
+Process 0 requested read of page 4 at time 0.785960
+Process 0 has been approved. Page 4 has been written into frame at address 13
+Process 0 requested write of page 10 at time 0.800040
+Process 0 has been approved. Page 10 has been written into frame at address 14
+Process 0 requested write of page 24 at time 0.814080
+Process 0 has been approved. Page 24 has been written into frame at address 15
+Process 0 requested write of page 19 at time 0.828240
+Process 0 has been approved. Page 19 has been written into frame at address 16
+Process 0 requested write of page 6 at time 0.842360
+Process 0 has been approved. Page 6 has been written into frame at address 17
+Process 0 requested write of page 28 at time 0.856480
+Process 0 has been approved. Page 28 has been written into frame at address 18
+Process 0 requested read of page 12 at time 0.870560
+Process 0 has been approved. Page 12 has been written into frame at address 19
+Process 0 requested write of page 13 at time 0.884600
+Process 0 has been approved. Page 13 has been written into frame at address 20
+Process 0 requested write of page 0 at time 0.898680
+Process 0 has been approved. Page 0 has been written into frame at address 21
+Process 0 requested write of page 30 at time 0.912800
+Process 0 has been approved. Page 30 has been written into frame at address 22
+Process 0 requested write of page 9 at time 0.926880
+Process 0 has been approved. Page 9 has been written into frame at address 23
+Process 0 requested write of page 16 at time 0.940920
+Process 0 has been approved. Page 16 has been written into frame at address 24
+Process 0 requested write of page 21 at time 0.955120
+Process 0 has been approved. Page 21 has been written into frame at address 25
+Process 0 requested read of page 11 at time 0.969240
+Process 0 has been approved. Page 11 has been written into frame at address 26
+Process 0 requested write of page 3 at time 0.983360
+Process 0 has been approved. Page 3 has been written into frame at address 27
+Process 0 requested write of page 20 at time 0.997640
+Process 0 has been approved. Page 20 has been written into frame at address 28
+Process 1 requested write of page 8 at time 1.011720
+Process 1 has been approved. Page 8 has been written into frame at address 29
+Process 1 requested write of page 22 at time 1.025800
+Process 1 has been approved. Page 22 has been written into frame at address 30
+Process 1 requested write of page 17 at time 1.039920
+Process 1 has been approved. Page 17 has been written into frame at address 31
+Process 1 requested write of page 1 at time 1.054000
+Process 1 has been approved. Page 1 has been written into frame at address 32
+Process 1 requested write of page 15 at time 1.068080
+Process 1 has been approved. Page 15 has been written into frame at address 33
+Process 1 requested write of page 5 at time 1.082160
+Process 1 has been approved. Page 5 has been written into frame at address 34
+Process 1 requested write of page 7 at time 1.096200
+Process 1 has been approved. Page 7 has been written into frame at address 35
+Process 1 requested read of page 25 at time 1.110240
+Process 1 has been approved. Page 25 has been written into frame at address 36
+Process 1 requested write of page 2 at time 1.124400
+Process 1 has been approved. Page 2 has been written into frame at address 37
+Process 1 requested write of page 26 at time 1.138480
+Process 1 has been approved. Page 26 has been written into frame at address 38
+Process 1 requested read of page 4 at time 1.152520
+Process 1 has been approved. Page 4 has been written into frame at address 39
+Process 1 requested write of page 10 at time 1.166600
+Process 1 has been approved. Page 10 has been written into frame at address 40
+Process 1 requested write of page 24 at time 1.180640
+Process 1 has been approved. Page 24 has been written into frame at address 41
+Process 1 requested write of page 19 at time 1.194800
+Process 1 has been approved. Page 19 has been written into frame at address 42
+Process 1 requested write of page 6 at time 1.208920
+Process 1 has been approved. Page 6 has been written into frame at address 43
+Process 1 requested write of page 28 at time 1.223040
+Process 1 has been approved. Page 28 has been written into frame at address 44
+Process 1 requested read of page 12 at time 1.237120
+Process 1 has been approved. Page 12 has been written into frame at address 45
+Process 1 requested write of page 13 at time 1.251160
+Process 1 has been approved. Page 13 has been written into frame at address 46
+Process 1 requested write of page 0 at time 1.265240
+Process 1 has been approved. Page 0 has been written into frame at address 47
+Process 0 requested write of page 14 at time 1.279360
+Process 0 has been approved. Page 14 has been written into frame at address 48
+Process 1 requested write of page 9 at time 1.293440
+Process 1 has been approved. Page 9 has been written into frame at address 49
+Process 1 requested write of page 16 at time 1.307480
+Process 1 has been approved. Page 16 has been written into frame at address 50
+Process 1 requested write of page 30 at time 1.321800
+Process 1 has been approved. Page 30 has been written into frame at address 51
+Process 1 requested read of page 21 at time 1.336280
+Process 1 has been approved. Page 21 has been written into frame at address 52
+Process 1 requested write of page 14 at time 1.350520
+Process 1 has been approved. Page 14 has been written into frame at address 53
+Process 1 requested write of page 27 at time 1.364680
+Process 1 has been approved. Page 27 has been written into frame at address 54
+Process 1 requested write of page 29 at time 1.379640
+Process 1 has been approved. Page 29 has been written into frame at address 55
+Process 1 requested write of page 20 at time 1.393720
+Process 1 has been approved. Page 20 has been written into frame at address 56
+Process 0 requested write of page 29 at time 1.407880
+Process 0 has been approved. Page 29 has been written into frame at address 57
+Process 0 requested read of page 31 at time 1.422480
+Process 0 has been approved. Page 31 has been written into frame at address 58
+Process 1 requested write of page 3 at time 1.436680
+Process 1 has been approved. Page 3 has been written into frame at address 59
+Process 1 requested read of page 18 at time 1.450920
+Process 1 has been approved. Page 18 has been written into frame at address 60
+Process 1 requested write of page 23 at time 1.465680
+Process 1 has been approved. Page 23 has been written into frame at address 61
+Process 1 requested read of page 11 at time 1.480760
+Process 1 has been approved. Page 11 has been written into frame at address 62
+Process 1 requested read of page 31 at time 1.495000
+Process 1 has been approved. Page 31 has been written into frame at address 63
+Process 2 requested write of page 8 at time 1.813400
+Process 2 has been approved. Page 8 has been written into frame at address 64
+Process 2 requested write of page 22 at time 1.827480
+Process 2 has been approved. Page 22 has been written into frame at address 65
+Process 2 requested write of page 17 at time 1.841560
+Process 2 has been approved. Page 17 has been written into frame at address 66
+Process 2 requested read of page 15 at time 1.855640
+Process 2 has been approved. Page 15 has been written into frame at address 67
+Process 2 requested write of page 1 at time 1.869680
+Process 2 has been approved. Page 1 has been written into frame at address 68
+Process 2 requested write of page 27 at time 1.883800
+Process 2 has been approved. Page 27 has been written into frame at address 69
+Process 2 requested write of page 5 at time 1.897840
+Process 2 has been approved. Page 5 has been written into frame at address 70
+Process 2 requested write of page 7 at time 1.911880
+Process 2 has been approved. Page 7 has been written into frame at address 71
+Process 2 requested read of page 25 at time 1.925920
+Process 2 has been approved. Page 25 has been written into frame at address 72
+Process 2 requested read of page 18 at time 1.939960
+Process 2 has been approved. Page 18 has been written into frame at address 73
+Process 2 requested write of page 2 at time 1.954080
+Process 2 has been approved. Page 2 has been written into frame at address 74
+Process 2 requested read of page 23 at time 1.968120
+Process 2 has been approved. Page 23 has been written into frame at address 75
+Process 2 requested write of page 26 at time 1.982160
+Process 2 has been approved. Page 26 has been written into frame at address 76
+Process 2 requested read of page 4 at time 1.996200
+Process 2 has been approved. Page 4 has been written into frame at address 77
+Process 2 requested write of page 10 at time 2.010280
+Process 2 has been approved. Page 10 has been written into frame at address 78
+Process 2 requested write of page 24 at time 2.024320
+Process 2 has been approved. Page 24 has been written into frame at address 79
+Process 2 requested write of page 19 at time 2.038480
+Process 2 has been approved. Page 19 has been written into frame at address 80
+Process 2 requested write of page 6 at time 2.052600
+Process 2 has been approved. Page 6 has been written into frame at address 81
+Process 2 requested write of page 28 at time 2.066720
+Process 2 has been approved. Page 28 has been written into frame at address 82
+Process 2 requested read of page 12 at time 2.080800
+Process 2 has been approved. Page 12 has been written into frame at address 83
+Process 2 requested write of page 13 at time 2.094840
+Process 2 has been approved. Page 13 has been written into frame at address 84
+Process 2 requested write of page 0 at time 2.108920
+Process 2 has been approved. Page 0 has been written into frame at address 85
+Process 2 requested write of page 30 at time 2.123040
+Process 2 has been approved. Page 30 has been written into frame at address 86
+Process 2 requested write of page 9 at time 2.137120
+Process 2 has been approved. Page 9 has been written into frame at address 87
+Process 2 requested write of page 16 at time 2.151160
+Process 2 has been approved. Page 16 has been written into frame at address 88
+Process 2 requested write of page 21 at time 2.165360
+Process 2 has been approved. Page 21 has been written into frame at address 89
+Process 2 requested read of page 11 at time 2.179440
+Process 2 has been approved. Page 11 has been written into frame at address 90
+Process 2 requested write of page 3 at time 2.193560
+Process 2 has been approved. Page 3 has been written into frame at address 91
+Process 2 requested write of page 20 at time 2.207840
+Process 2 has been approved. Page 20 has been written into frame at address 92
+Process 2 requested write of page 14 at time 2.222200
+Process 2 has been approved. Page 14 has been written into frame at address 93
+Process 2 requested write of page 29 at time 2.237320
+Process 2 has been approved. Page 29 has been written into frame at address 94
+Process 2 requested write of page 31 at time 2.251440
+Process 2 has been approved. Page 31 has been written into frame at address 95
+Process 3 requested write of page 8 at time 2.631240
+Process 3 has been approved. Page 8 has been written into frame at address 96
+Process 3 requested write of page 22 at time 2.645320
+Process 3 has been approved. Page 22 has been written into frame at address 97
+Process 3 requested write of page 17 at time 2.659400
+Process 3 has been approved. Page 17 has been written into frame at address 98
+Process 3 requested read of page 15 at time 2.673480
+Process 3 has been approved. Page 15 has been written into frame at address 99
+Process 3 requested write of page 1 at time 2.687520
+Process 3 has been approved. Page 1 has been written into frame at address 100
+Process 3 requested write of page 27 at time 2.701640
+Process 3 has been approved. Page 27 has been written into frame at address 101
+Process 3 requested write of page 5 at time 2.715680
+Process 3 has been approved. Page 5 has been written into frame at address 102
+Process 3 requested write of page 7 at time 2.729720
+Process 3 has been approved. Page 7 has been written into frame at address 103
+Process 3 requested read of page 25 at time 2.743760
+Process 3 has been approved. Page 25 has been written into frame at address 104
+Process 3 requested read of page 18 at time 2.757800
+Process 3 has been approved. Page 18 has been written into frame at address 105
+Process 3 requested write of page 2 at time 2.771920
+Process 3 has been approved. Page 2 has been written into frame at address 106
+Process 3 requested read of page 23 at time 2.785960
+Process 3 has been approved. Page 23 has been written into frame at address 107
+Process 3 requested write of page 26 at time 2.800000
+Process 3 has been approved. Page 26 has been written into frame at address 108
+Process 3 requested read of page 4 at time 2.814040
+Process 3 has been approved. Page 4 has been written into frame at address 109
+Process 3 requested write of page 10 at time 2.828120
+Process 3 has been approved. Page 10 has been written into frame at address 110
+Process 3 requested write of page 24 at time 2.842160
+Process 3 has been approved. Page 24 has been written into frame at address 111
+Process 3 requested write of page 19 at time 2.856320
+Process 3 has been approved. Page 19 has been written into frame at address 112
+Process 3 requested write of page 6 at time 2.870440
+Process 3 has been approved. Page 6 has been written into frame at address 113
+Process 3 requested write of page 28 at time 2.884560
+Process 3 has been approved. Page 28 has been written into frame at address 114
+Process 3 requested read of page 12 at time 2.898640
+Process 3 has been approved. Page 12 has been written into frame at address 115
+Process 3 requested write of page 13 at time 2.912680
+Process 3 has been approved. Page 13 has been written into frame at address 116
+Process 3 requested write of page 0 at time 2.926760
+Process 3 has been approved. Page 0 has been written into frame at address 117
+Process 3 requested write of page 30 at time 2.940880
+Process 3 has been approved. Page 30 has been written into frame at address 118
+Process 3 requested write of page 9 at time 2.954960
+Process 3 has been approved. Page 9 has been written into frame at address 119
+Process 3 requested write of page 16 at time 2.969000
+Process 3 has been approved. Page 16 has been written into frame at address 120
+Process 3 requested write of page 21 at time 2.983200
+Process 3 has been approved. Page 21 has been written into frame at address 121
+Process 3 requested read of page 11 at time 2.997280
+Process 3 has been approved. Page 11 has been written into frame at address 122
+Process 3 requested write of page 3 at time 3.011400
+Process 3 has been approved. Page 3 has been written into frame at address 123
+Process 3 requested write of page 20 at time 3.025680
+Process 3 has been approved. Page 20 has been written into frame at address 124
+Process 3 requested write of page 14 at time 3.040040
+Process 3 has been approved. Page 14 has been written into frame at address 125
+Process 3 requested write of page 29 at time 3.055160
+Process 3 has been approved. Page 29 has been written into frame at address 126
+Process 3 requested write of page 31 at time 3.069280
+Process 3 has been approved. Page 31 has been written into frame at address 127
+Process 4 requested write of page 8 at time 3.581240
+Process 4 has been approved. Page 8 has been written into frame at address 128
+Process 4 requested write of page 22 at time 3.595320
+Process 4 has been approved. Page 22 has been written into frame at address 129
+Process 4 requested write of page 17 at time 3.609440
+Process 4 has been approved. Page 17 has been written into frame at address 130
+Process 4 requested read of page 15 at time 3.623520
+Process 4 has been approved. Page 15 has been written into frame at address 131
+Process 4 requested write of page 1 at time 3.637560
+Process 4 has been approved. Page 1 has been written into frame at address 132
+Process 4 requested write of page 27 at time 3.651680
+Process 4 has been approved. Page 27 has been written into frame at address 133
+Process 4 requested write of page 5 at time 3.665720
+Process 4 has been approved. Page 5 has been written into frame at address 134
+Process 4 requested write of page 7 at time 3.679760
+Process 4 has been approved. Page 7 has been written into frame at address 135
+Process 4 requested read of page 25 at time 3.693800
+Process 4 has been approved. Page 25 has been written into frame at address 136
+Process 4 requested read of page 18 at time 3.707840
+Process 4 has been approved. Page 18 has been written into frame at address 137
+Process 4 requested write of page 2 at time 3.721960
+Process 4 has been approved. Page 2 has been written into frame at address 138
+Process 4 requested read of page 23 at time 3.736000
+Process 4 has been approved. Page 23 has been written into frame at address 139
+Process 4 requested write of page 26 at time 3.750040
+Process 4 has been approved. Page 26 has been written into frame at address 140
+Process 4 requested read of page 4 at time 3.764080
+Process 4 has been approved. Page 4 has been written into frame at address 141
+Process 4 requested write of page 10 at time 3.778160
+Process 4 has been approved. Page 10 has been written into frame at address 142
+Process 4 requested write of page 24 at time 3.792200
+Process 4 has been approved. Page 24 has been written into frame at address 143
+Process 4 requested write of page 19 at time 3.806360
+Process 4 has been approved. Page 19 has been written into frame at address 144
+Process 4 requested write of page 6 at time 3.820480
+Process 4 has been approved. Page 6 has been written into frame at address 145
+Process 4 requested write of page 28 at time 3.834600
+Process 4 has been approved. Page 28 has been written into frame at address 146
+Process 4 requested read of page 12 at time 3.848680
+Process 4 has been approved. Page 12 has been written into frame at address 147
+Process 4 requested write of page 13 at time 3.862720
+Process 4 has been approved. Page 13 has been written into frame at address 148
+Process 4 requested write of page 0 at time 3.876800
+Process 4 has been approved. Page 0 has been written into frame at address 149
+Process 4 requested write of page 30 at time 3.890920
+Process 4 has been approved. Page 30 has been written into frame at address 150
+Process 4 requested write of page 9 at time 3.905000
+Process 4 has been approved. Page 9 has been written into frame at address 151
+Process 4 requested write of page 16 at time 3.919040
+Process 4 has been approved. Page 16 has been written into frame at address 152
+Process 4 requested write of page 21 at time 3.933240
+Process 4 has been approved. Page 21 has been written into frame at address 153
+Process 4 requested read of page 11 at time 3.947320
+Process 4 has been approved. Page 11 has been written into frame at address 154
+Process 4 requested write of page 3 at time 3.961440
+Process 4 has been approved. Page 3 has been written into frame at address 155
+Process 4 requested write of page 20 at time 3.975720
+Process 4 has been approved. Page 20 has been written into frame at address 156
+Process 4 requested write of page 14 at time 3.990080
+Process 4 has been approved. Page 14 has been written into frame at address 157
+Process 4 requested write of page 29 at time 4.005400
+Process 4 has been approved. Page 29 has been written into frame at address 158
+Process 4 requested write of page 31 at time 4.019520
+Process 4 has been approved. Page 31 has been written into frame at address 159
+Process 5 requested write of page 8 at time 4.611200
+Process 5 has been approved. Page 8 has been written into frame at address 160
+Process 5 requested write of page 22 at time 4.625280
+Process 5 has been approved. Page 22 has been written into frame at address 161
+Process 5 requested write of page 17 at time 4.639360
+Process 5 has been approved. Page 17 has been written into frame at address 162
+Process 5 requested read of page 15 at time 4.653440
+Process 5 has been approved. Page 15 has been written into frame at address 163
+Process 5 requested write of page 1 at time 4.667480
+Process 5 has been approved. Page 1 has been written into frame at address 164
+Process 5 requested write of page 27 at time 4.681600
+Process 5 has been approved. Page 27 has been written into frame at address 165
+Process 5 requested write of page 5 at time 4.695640
+Process 5 has been approved. Page 5 has been written into frame at address 166
+Process 5 requested write of page 7 at time 4.709680
+Process 5 has been approved. Page 7 has been written into frame at address 167
+Process 5 requested read of page 25 at time 4.723720
+Process 5 has been approved. Page 25 has been written into frame at address 168
+Process 5 requested read of page 18 at time 4.737760
+Process 5 has been approved. Page 18 has been written into frame at address 169
+Process 5 requested write of page 2 at time 4.751880
+Process 5 has been approved. Page 2 has been written into frame at address 170
+Process 5 requested read of page 23 at time 4.765920
+Process 5 has been approved. Page 23 has been written into frame at address 171
+Process 5 requested write of page 26 at time 4.779960
+Process 5 has been approved. Page 26 has been written into frame at address 172
+Process 5 requested read of page 4 at time 4.794000
+Process 5 has been approved. Page 4 has been written into frame at address 173
+Process 5 requested write of page 10 at time 4.808080
+Process 5 has been approved. Page 10 has been written into frame at address 174
+Process 5 requested write of page 24 at time 4.822120
+Process 5 has been approved. Page 24 has been written into frame at address 175
+Process 5 requested write of page 19 at time 4.836280
+Process 5 has been approved. Page 19 has been written into frame at address 176
+Process 5 requested write of page 6 at time 4.850400
+Process 5 has been approved. Page 6 has been written into frame at address 177
+Process 5 requested write of page 28 at time 4.864520
+Process 5 has been approved. Page 28 has been written into frame at address 178
+Process 5 requested read of page 12 at time 4.878600
+Process 5 has been approved. Page 12 has been written into frame at address 179
+Process 5 requested write of page 13 at time 4.892640
+Process 5 has been approved. Page 13 has been written into frame at address 180
+Process 5 requested write of page 0 at time 4.906720
+Process 5 has been approved. Page 0 has been written into frame at address 181
+Process 5 requested write of page 30 at time 4.920840
+Process 5 has been approved. Page 30 has been written into frame at address 182
+Process 5 requested write of page 9 at time 4.934920
+Process 5 has been approved. Page 9 has been written into frame at address 183
+Process 5 requested write of page 16 at time 4.948960
+Process 5 has been approved. Page 16 has been written into frame at address 184
+Process 5 requested write of page 21 at time 4.963160
+Process 5 has been approved. Page 21 has been written into frame at address 185
+Process 5 requested read of page 11 at time 4.977240
+Process 5 has been approved. Page 11 has been written into frame at address 186
+Process 5 requested write of page 3 at time 4.991360
+Process 5 has been approved. Page 3 has been written into frame at address 187
+Process 5 requested write of page 20 at time 5.005640
+Process 5 has been approved. Page 20 has been written into frame at address 188
+Process 5 requested write of page 14 at time 5.020000
+Process 5 has been approved. Page 14 has been written into frame at address 189
+Process 5 requested write of page 29 at time 5.035120
+Process 5 has been approved. Page 29 has been written into frame at address 190
+Process 5 requested write of page 31 at time 5.049240
+Process 5 has been approved. Page 31 has been written into frame at address 191
+Process 6 requested write of page 8 at time 5.910200
+Process 6 has been approved. Page 8 has been written into frame at address 192
+Process 6 requested write of page 22 at time 5.924280
+Process 6 has been approved. Page 22 has been written into frame at address 193
+Process 6 requested write of page 17 at time 5.938360
+Process 6 has been approved. Page 17 has been written into frame at address 194
+Process 6 requested read of page 15 at time 5.952440
+Process 6 has been approved. Page 15 has been written into frame at address 195
+Process 6 requested write of page 1 at time 5.966480
+Process 6 has been approved. Page 1 has been written into frame at address 196
+Process 6 requested write of page 27 at time 5.980600
+Process 6 has been approved. Page 27 has been written into frame at address 197
+Process 6 requested write of page 5 at time 5.994640
+Process 6 has been approved. Page 5 has been written into frame at address 198
+Process 6 requested write of page 7 at time 6.008680
+Process 6 has been approved. Page 7 has been written into frame at address 199
+Process 6 requested read of page 25 at time 6.022720
+Process 6 has been approved. Page 25 has been written into frame at address 200
+Process 6 requested read of page 18 at time 6.036760
+Process 6 has been approved. Page 18 has been written into frame at address 201
+Process 6 requested write of page 2 at time 6.050880
+Process 6 has been approved. Page 2 has been written into frame at address 202
+Process 6 requested read of page 23 at time 6.064920
+Process 6 has been approved. Page 23 has been written into frame at address 203
+Process 6 requested write of page 26 at time 6.078960
+Process 6 has been approved. Page 26 has been written into frame at address 204
+Process 6 requested read of page 4 at time 6.093000
+Process 6 has been approved. Page 4 has been written into frame at address 205
+Process 6 requested write of page 10 at time 6.107080
+Process 6 has been approved. Page 10 has been written into frame at address 206
+Process 6 requested write of page 24 at time 6.121120
+Process 6 has been approved. Page 24 has been written into frame at address 207
+Process 6 requested write of page 19 at time 6.135280
+Process 6 has been approved. Page 19 has been written into frame at address 208
+Process 6 requested write of page 6 at time 6.149400
+Process 6 has been approved. Page 6 has been written into frame at address 209
+Process 6 requested write of page 28 at time 6.163520
+Process 6 has been approved. Page 28 has been written into frame at address 210
+Process 6 requested read of page 12 at time 6.177600
+Process 6 has been approved. Page 12 has been written into frame at address 211
+Process 6 requested write of page 13 at time 6.191640
+Process 6 has been approved. Page 13 has been written into frame at address 212
+Process 6 requested write of page 0 at time 6.205720
+Process 6 has been approved. Page 0 has been written into frame at address 213
+Process 6 requested write of page 30 at time 6.219840
+Process 6 has been approved. Page 30 has been written into frame at address 214
+Process 6 requested write of page 9 at time 6.233920
+Process 6 has been approved. Page 9 has been written into frame at address 215
+Process 6 requested write of page 16 at time 6.247960
+Process 6 has been approved. Page 16 has been written into frame at address 216
+Process 6 requested write of page 21 at time 6.262160
+Process 6 has been approved. Page 21 has been written into frame at address 217
+Process 6 requested read of page 11 at time 6.276240
+Process 6 has been approved. Page 11 has been written into frame at address 218
+Process 6 requested write of page 3 at time 6.290360
+Process 6 has been approved. Page 3 has been written into frame at address 219
+Process 6 requested write of page 20 at time 6.304640
+Process 6 has been approved. Page 20 has been written into frame at address 220
+Process 6 requested write of page 14 at time 6.319000
+Process 6 has been approved. Page 14 has been written into frame at address 221
+Process 6 requested write of page 29 at time 6.334120
+Process 6 has been approved. Page 29 has been written into frame at address 222
+Process 6 requested write of page 31 at time 6.348240
+Process 6 has been approved. Page 31 has been written into frame at address 223
+Process 7 requested write of page 8 at time 6.512160
+Process 7 has been approved. Page 8 has been written into frame at address 224
+Process 7 requested write of page 22 at time 6.526240
+Process 7 has been approved. Page 22 has been written into frame at address 225
+Process 7 requested write of page 17 at time 6.540320
+Process 7 has been approved. Page 17 has been written into frame at address 226
+Process 7 requested read of page 15 at time 6.554400
+Process 7 has been approved. Page 15 has been written into frame at address 227
+Process 7 requested write of page 1 at time 6.568440
+Process 7 has been approved. Page 1 has been written into frame at address 228
+Process 7 requested write of page 27 at time 6.582560
+Process 7 has been approved. Page 27 has been written into frame at address 229
+Process 7 requested write of page 5 at time 6.596600
+Process 7 has been approved. Page 5 has been written into frame at address 230
+Process 7 requested write of page 7 at time 6.610640
+Process 7 has been approved. Page 7 has been written into frame at address 231
+Process 7 requested read of page 25 at time 6.624680
+Process 7 has been approved. Page 25 has been written into frame at address 232
+Process 7 requested read of page 18 at time 6.638720
+Process 7 has been approved. Page 18 has been written into frame at address 233
+Process 7 requested write of page 2 at time 6.652840
+Process 7 has been approved. Page 2 has been written into frame at address 234
+Process 7 requested read of page 23 at time 6.666880
+Process 7 has been approved. Page 23 has been written into frame at address 235
+Process 7 requested write of page 26 at time 6.680920
+Process 7 has been approved. Page 26 has been written into frame at address 236
+Process 7 requested read of page 4 at time 6.694960
+Process 7 has been approved. Page 4 has been written into frame at address 237
+Process 7 requested write of page 10 at time 6.709040
+Process 7 has been approved. Page 10 has been written into frame at address 238
+Process 7 requested write of page 24 at time 6.723080
+Process 7 has been approved. Page 24 has been written into frame at address 239
+Process 7 requested write of page 19 at time 6.737240
+Process 7 has been approved. Page 19 has been written into frame at address 240
+Process 7 requested write of page 6 at time 6.751360
+Process 7 has been approved. Page 6 has been written into frame at address 241
+Process 7 requested write of page 28 at time 6.765480
+Process 7 has been approved. Page 28 has been written into frame at address 242
+Process 7 requested read of page 12 at time 6.779560
+Process 7 has been approved. Page 12 has been written into frame at address 243
+Process 7 requested write of page 13 at time 6.793600
+Process 7 has been approved. Page 13 has been written into frame at address 244
+Process 7 requested write of page 0 at time 6.807680
+Process 7 has been approved. Page 0 has been written into frame at address 245
+Process 7 requested write of page 30 at time 6.821800
+Process 7 has been approved. Page 30 has been written into frame at address 246
+Process 7 requested write of page 9 at time 6.835880
+Process 7 has been approved. Page 9 has been written into frame at address 247
+Process 7 requested write of page 16 at time 6.849920
+Process 7 has been approved. Page 16 has been written into frame at address 248
+Process 7 requested write of page 21 at time 6.864120
+Process 7 has been approved. Page 21 has been written into frame at address 249
+Process 7 requested read of page 11 at time 6.878200
+Process 7 has been approved. Page 11 has been written into frame at address 250
+Process 7 requested write of page 3 at time 6.892320
+Process 7 has been approved. Page 3 has been written into frame at address 251
+Process 7 requested write of page 20 at time 6.906600
+Process 7 has been approved. Page 20 has been written into frame at address 252
+Process 7 requested write of page 14 at time 6.920960
+Process 7 has been approved. Page 14 has been written into frame at address 253
+Process 7 requested write of page 29 at time 6.936080
+Process 7 has been approved. Page 29 has been written into frame at address 254
+Process 7 requested write of page 31 at time 6.950200
+Process 7 has been approved. Page 31 has been written into frame at address 255
+Process 8 requested write of page 8 at time 7.765240
+Process 8 seeking write of table 8 but frame is max | Clearing victim of address 0
+Process 8 requested write of page 22 at time 7.779320
+Process 8 seeking write of table 22 but frame is max | Clearing victim of address 1
+Process 8 requested write of page 17 at time 7.793400
+Process 8 seeking write of table 17 but frame is max | Clearing victim of address 2
+Process 8 requested read of page 15 at time 7.807480
+Process 8 seeking write of table 15 but frame is max | Clearing victim of address 3
+Process 8 requested write of page 1 at time 7.821520
+Process 8 seeking write of table 1 but frame is max | Clearing victim of address 4
+Process 8 requested write of page 27 at time 7.835640
+Process 8 seeking write of table 27 but frame is max | Clearing victim of address 5
+Process 8 requested write of page 5 at time 7.849680
+Process 8 seeking write of table 5 but frame is max | Clearing victim of address 6
+Process 8 requested write of page 7 at time 7.863720
+Process 8 seeking write of table 7 but frame is max | Clearing victim of address 7
+Process 8 requested read of page 25 at time 7.877760
+Process 8 seeking write of table 25 but frame is max | Clearing victim of address 8
+Process 8 requested read of page 18 at time 7.891800
+Process 8 seeking write of table 18 but frame is max | Clearing victim of address 9
+Process 8 requested write of page 2 at time 7.905920
+Process 8 seeking write of table 2 but frame is max | Clearing victim of address 10
+Process 8 requested read of page 23 at time 7.919960
+Process 8 seeking write of table 23 but frame is max | Clearing victim of address 11
+Process 8 requested write of page 26 at time 7.934000
+Process 8 seeking write of table 26 but frame is max | Clearing victim of address 12
+Process 8 requested read of page 4 at time 7.948040
+Process 8 seeking write of table 4 but frame is max | Clearing victim of address 13
+Process 8 requested write of page 10 at time 7.962120
+Process 8 seeking write of table 10 but frame is max | Clearing victim of address 14
+Process 8 requested write of page 24 at time 7.976160
+Process 8 seeking write of table 24 but frame is max | Clearing victim of address 15
+Process 8 requested write of page 19 at time 7.990320
+Process 8 seeking write of table 19 but frame is max | Clearing victim of address 16
+Process 8 requested write of page 6 at time 8.004440
+Process 8 seeking write of table 6 but frame is max | Clearing victim of address 17
+Process 8 requested write of page 28 at time 8.018560
+Process 8 seeking write of table 28 but frame is max | Clearing victim of address 18
+Process 8 requested read of page 12 at time 8.032640
+Process 8 seeking write of table 12 but frame is max | Clearing victim of address 19
+Process 8 requested write of page 13 at time 8.046680
+Process 8 seeking write of table 13 but frame is max | Clearing victim of address 20
+Process 8 requested write of page 0 at time 8.060760
+Process 8 seeking write of table 0 but frame is max | Clearing victim of address 21
+Process 8 requested write of page 30 at time 8.074881
+Process 8 seeking write of table 30 but frame is max | Clearing victim of address 22
+Process 8 requested write of page 9 at time 8.088961
+Process 8 seeking write of table 9 but frame is max | Clearing victim of address 23
+Process 8 requested write of page 16 at time 8.103001
+Process 8 seeking write of table 16 but frame is max | Clearing victim of address 24
+Process 8 requested write of page 21 at time 8.117200
+Process 8 seeking write of table 21 but frame is max | Clearing victim of address 25
+Process 8 requested read of page 11 at time 8.131280
+Process 8 seeking write of table 11 but frame is max | Clearing victim of address 26
+Process 8 requested write of page 3 at time 8.145400
+Process 8 seeking write of table 3 but frame is max | Clearing victim of address 27
+Process 8 requested write of page 20 at time 8.159680
+Process 8 seeking write of table 20 but frame is max | Clearing victim of address 28
+Process 8 requested write of page 14 at time 8.174040
+Process 8 seeking write of table 14 but frame is max | Clearing victim of address 48
+Process 8 requested write of page 29 at time 8.189160
+Process 8 seeking write of table 29 but frame is max | Clearing victim of address 57
+Process 8 requested write of page 31 at time 8.203280
+Process 8 seeking write of table 31 but frame is max | Clearing victim of address 58
+Process 9 requested write of page 8 at time 8.801200
+Process 9 seeking write of table 8 but frame is max | Clearing victim of address 0
+Process 9 requested write of page 22 at time 8.815280
+Process 9 seeking write of table 22 but frame is max | Clearing victim of address 1
+Process 9 requested write of page 17 at time 8.829360
+Process 9 seeking write of table 17 but frame is max | Clearing victim of address 2
+Process 9 requested read of page 15 at time 8.843440
+Process 9 seeking write of table 15 but frame is max | Clearing victim of address 3
+Process 9 requested write of page 1 at time 8.857480
+Process 9 seeking write of table 1 but frame is max | Clearing victim of address 4
+Process 9 requested write of page 27 at time 8.871600
+Process 9 seeking write of table 27 but frame is max | Clearing victim of address 5
+Process 9 requested write of page 5 at time 8.885640
+Process 9 seeking write of table 5 but frame is max | Clearing victim of address 6
+Process 9 requested write of page 7 at time 8.899680
+Process 9 seeking write of table 7 but frame is max | Clearing victim of address 7
+Process 9 requested read of page 25 at time 8.913720
+Process 9 seeking write of table 25 but frame is max | Clearing victim of address 8
+Process 9 requested read of page 18 at time 8.927760
+Process 9 seeking write of table 18 but frame is max | Clearing victim of address 9
+Process 9 requested write of page 2 at time 8.941880
+Process 9 seeking write of table 2 but frame is max | Clearing victim of address 10
+Process 9 requested read of page 23 at time 8.955920
+Process 9 seeking write of table 23 but frame is max | Clearing victim of address 11
+Process 9 requested write of page 26 at time 8.969960
+Process 9 seeking write of table 26 but frame is max | Clearing victim of address 12
+Process 9 requested read of page 4 at time 8.984000
+Process 9 seeking write of table 4 but frame is max | Clearing victim of address 13
+Process 9 requested write of page 10 at time 8.998080
+Process 9 seeking write of table 10 but frame is max | Clearing victim of address 14
+Process 9 requested write of page 24 at time 9.012120
+Process 9 seeking write of table 24 but frame is max | Clearing victim of address 15
+Process 9 requested write of page 19 at time 9.026280
+Process 9 seeking write of table 19 but frame is max | Clearing victim of address 16
+Process 9 requested write of page 6 at time 9.040401
+Process 9 seeking write of table 6 but frame is max | Clearing victim of address 17
+Process 9 requested write of page 28 at time 9.054521
+Process 9 seeking write of table 28 but frame is max | Clearing victim of address 18
+Process 9 requested read of page 12 at time 9.068601
+Process 9 seeking write of table 12 but frame is max | Clearing victim of address 19
+Process 9 requested write of page 13 at time 9.082641
+Process 9 seeking write of table 13 but frame is max | Clearing victim of address 20
+Process 9 requested write of page 0 at time 9.096721
+Process 9 seeking write of table 0 but frame is max | Clearing victim of address 21
+Process 9 requested write of page 30 at time 9.110841
+Process 9 seeking write of table 30 but frame is max | Clearing victim of address 22
+Process 9 requested write of page 9 at time 9.124921
+Process 9 seeking write of table 9 but frame is max | Clearing victim of address 23
+Process 9 requested write of page 16 at time 9.138961
+Process 9 seeking write of table 16 but frame is max | Clearing victim of address 24
+Process 9 requested write of page 21 at time 9.153160
+Process 9 seeking write of table 21 but frame is max | Clearing victim of address 25
+Process 9 requested read of page 11 at time 9.167240
+Process 9 seeking write of table 11 but frame is max | Clearing victim of address 26
+Process 9 requested write of page 3 at time 9.181360
+Process 9 seeking write of table 3 but frame is max | Clearing victim of address 27
+Process 9 requested write of page 20 at time 9.195641
+Process 9 seeking write of table 20 but frame is max | Clearing victim of address 28
+Process 9 requested write of page 14 at time 9.210001
+Process 9 seeking write of table 14 but frame is max | Clearing victim of address 48
+Process 9 requested write of page 29 at time 9.225121
+Process 9 seeking write of table 29 but frame is max | Clearing victim of address 57
+Process 9 requested write of page 31 at time 9.239241
+Process 9 seeking write of table 31 but frame is max | Clearing victim of address 58
+Process 10 requested write of page 8 at time 9.622241
+Process 10 seeking write of table 8 but frame is max | Clearing victim of address 0
+Process 10 requested write of page 22 at time 9.636321
+Process 10 seeking write of table 22 but frame is max | Clearing victim of address 1
+Process 10 requested write of page 17 at time 9.650400
+Process 10 seeking write of table 17 but frame is max | Clearing victim of address 2
+Process 10 requested read of page 15 at time 9.664480
+Process 10 seeking write of table 15 but frame is max | Clearing victim of address 3
+Process 10 requested write of page 1 at time 9.678520
+Process 10 seeking write of table 1 but frame is max | Clearing victim of address 4
+Process 10 requested write of page 27 at time 9.692640
+Process 10 seeking write of table 27 but frame is max | Clearing victim of address 5
+Process 10 requested write of page 5 at time 9.706680
+Process 10 seeking write of table 5 but frame is max | Clearing victim of address 6
+Process 10 requested write of page 7 at time 9.720720
+Process 10 seeking write of table 7 but frame is max | Clearing victim of address 7
+Process 10 requested read of page 25 at time 9.734760
+Process 10 seeking write of table 25 but frame is max | Clearing victim of address 8
+Process 10 requested read of page 18 at time 9.748800
+Process 10 seeking write of table 18 but frame is max | Clearing victim of address 9
+Process 10 requested write of page 2 at time 9.762920
+Process 10 seeking write of table 2 but frame is max | Clearing victim of address 10
+Process 10 requested read of page 23 at time 9.776960
+Process 10 seeking write of table 23 but frame is max | Clearing victim of address 11
+Process 10 requested write of page 26 at time 9.791000
+Process 10 seeking write of table 26 but frame is max | Clearing victim of address 12
+Process 10 requested read of page 4 at time 9.805040
+Process 10 seeking write of table 4 but frame is max | Clearing victim of address 13
+Process 10 requested write of page 10 at time 9.819120
+Process 10 seeking write of table 10 but frame is max | Clearing victim of address 14
+Process 10 requested write of page 24 at time 9.833160
+Process 10 seeking write of table 24 but frame is max | Clearing victim of address 15
+Process 10 requested write of page 19 at time 9.847321
+Process 10 seeking write of table 19 but frame is max | Clearing victim of address 16
+Process 10 requested write of page 6 at time 9.861441
+Process 10 seeking write of table 6 but frame is max | Clearing victim of address 17
+Process 10 requested write of page 28 at time 9.875561
+Process 10 seeking write of table 28 but frame is max | Clearing victim of address 18
+Process 10 requested read of page 12 at time 9.889641
+Process 10 seeking write of table 12 but frame is max | Clearing victim of address 19
+Process 10 requested write of page 13 at time 9.903681
+Process 10 seeking write of table 13 but frame is max | Clearing victim of address 20
+Process 10 requested write of page 0 at time 9.917761
+Process 10 seeking write of table 0 but frame is max | Clearing victim of address 21
+Process 10 requested write of page 30 at time 9.931881
+Process 10 seeking write of table 30 but frame is max | Clearing victim of address 22
+Process 10 requested write of page 9 at time 9.945961
+Process 10 seeking write of table 9 but frame is max | Clearing victim of address 23
+Process 10 requested write of page 16 at time 9.960001
+Process 10 seeking write of table 16 but frame is max | Clearing victim of address 24
+Process 10 requested write of page 21 at time 9.974201
+Process 10 seeking write of table 21 but frame is max | Clearing victim of address 25
+Process 10 requested read of page 11 at time 9.988281
+Process 10 seeking write of table 11 but frame is max | Clearing victim of address 26
+Process 10 requested write of page 3 at time 10.002401
+Process 10 seeking write of table 3 but frame is max | Clearing victim of address 27
+Process 10 requested write of page 20 at time 10.016681
+Process 10 seeking write of table 20 but frame is max | Clearing victim of address 28
+Process 10 requested write of page 14 at time 10.031041
+Process 10 seeking write of table 14 but frame is max | Clearing victim of address 48
+Process 10 requested write of page 29 at time 10.046161
+Process 10 seeking write of table 29 but frame is max | Clearing victim of address 57
+Process 10 requested write of page 31 at time 10.060281
+Process 10 seeking write of table 31 but frame is max | Clearing victim of address 58
+Process 11 requested write of page 8 at time 10.575441
+Process 11 seeking write of table 8 but frame is max | Clearing victim of address 0
+Process 11 requested write of page 22 at time 10.589521
+Process 11 seeking write of table 22 but frame is max | Clearing victim of address 1
+Process 11 requested write of page 17 at time 10.603601
+Process 11 seeking write of table 17 but frame is max | Clearing victim of address 2
+Process 11 requested read of page 15 at time 10.617681
+Process 11 seeking write of table 15 but frame is max | Clearing victim of address 3
+Process 11 requested write of page 1 at time 10.631721
+Process 11 seeking write of table 1 but frame is max | Clearing victim of address 4
+Process 11 requested write of page 27 at time 10.645841
+Process 11 seeking write of table 27 but frame is max | Clearing victim of address 5
+Process 11 requested write of page 5 at time 10.659881
+Process 11 seeking write of table 5 but frame is max | Clearing victim of address 6
+Process 11 requested write of page 7 at time 10.673921
+Process 11 seeking write of table 7 but frame is max | Clearing victim of address 7
+Process 11 requested read of page 25 at time 10.687961
+Process 11 seeking write of table 25 but frame is max | Clearing victim of address 8
+Process 11 requested read of page 18 at time 10.702001
+Process 11 seeking write of table 18 but frame is max | Clearing victim of address 9
+Process 11 requested write of page 2 at time 10.716121
+Process 11 seeking write of table 2 but frame is max | Clearing victim of address 10
+Process 11 requested read of page 23 at time 10.730161
+Process 11 seeking write of table 23 but frame is max | Clearing victim of address 11
+Process 11 requested write of page 26 at time 10.744201
+Process 11 seeking write of table 26 but frame is max | Clearing victim of address 12
+Process 11 requested read of page 4 at time 10.758241
+Process 11 seeking write of table 4 but frame is max | Clearing victim of address 13
+Process 11 requested write of page 10 at time 10.772321
+Process 11 seeking write of table 10 but frame is max | Clearing victim of address 14
+Process 11 requested write of page 24 at time 10.786361
+Process 11 seeking write of table 24 but frame is max | Clearing victim of address 15
+Process 11 requested write of page 19 at time 10.800521
+Process 11 seeking write of table 19 but frame is max | Clearing victim of address 16
+Process 11 requested write of page 6 at time 10.814641
+Process 11 seeking write of table 6 but frame is max | Clearing victim of address 17
+Process 11 requested write of page 28 at time 10.828761
+Process 11 seeking write of table 28 but frame is max | Clearing victim of address 18
+Process 11 requested read of page 12 at time 10.842841
+Process 11 seeking write of table 12 but frame is max | Clearing victim of address 19
+Process 11 requested write of page 13 at time 10.856881
+Process 11 seeking write of table 13 but frame is max | Clearing victim of address 20
+Process 11 requested write of page 0 at time 10.870961
+Process 11 seeking write of table 0 but frame is max | Clearing victim of address 21
+Process 11 requested write of page 30 at time 10.885081
+Process 11 seeking write of table 30 but frame is max | Clearing victim of address 22
+Process 11 requested write of page 9 at time 10.899161
+Process 11 seeking write of table 9 but frame is max | Clearing victim of address 23
+Process 11 requested write of page 16 at time 10.913201
+Process 11 seeking write of table 16 but frame is max | Clearing victim of address 24
+Process 11 requested write of page 21 at time 10.927402
+Process 11 seeking write of table 21 but frame is max | Clearing victim of address 25
+Process 11 requested read of page 11 at time 10.941482
+Process 11 seeking write of table 11 but frame is max | Clearing victim of address 26
+Process 11 requested write of page 3 at time 10.955601
+Process 11 seeking write of table 3 but frame is max | Clearing victim of address 27
+Process 11 requested write of page 20 at time 10.969881
+Process 11 seeking write of table 20 but frame is max | Clearing victim of address 28
+Process 11 requested write of page 14 at time 10.984241
+Process 11 seeking write of table 14 but frame is max | Clearing victim of address 48
+Process 11 requested write of page 29 at time 10.999361
+Process 11 seeking write of table 29 but frame is max | Clearing victim of address 57
+Process 11 requested write of page 31 at time 11.013481
+Process 11 seeking write of table 31 but frame is max | Clearing victim of address 58
+Process 12 requested write of page 8 at time 11.678202
+Process 12 seeking write of table 8 but frame is max | Clearing victim of address 0
+Process 12 requested write of page 22 at time 11.692282
+Process 12 seeking write of table 22 but frame is max | Clearing victim of address 1
+Process 12 requested write of page 17 at time 11.706362
+Process 12 seeking write of table 17 but frame is max | Clearing victim of address 2
+Process 12 requested read of page 15 at time 11.720441
+Process 12 seeking write of table 15 but frame is max | Clearing victim of address 3
+Process 12 requested write of page 1 at time 11.734482
+Process 12 seeking write of table 1 but frame is max | Clearing victim of address 4
+Process 12 requested write of page 27 at time 11.748601
+Process 12 seeking write of table 27 but frame is max | Clearing victim of address 5
+Process 12 requested write of page 5 at time 11.762641
+Process 12 seeking write of table 5 but frame is max | Clearing victim of address 6
+Process 12 requested write of page 7 at time 11.776681
+Process 12 seeking write of table 7 but frame is max | Clearing victim of address 7
+Process 12 requested read of page 25 at time 11.790721
+Process 12 seeking write of table 25 but frame is max | Clearing victim of address 8
+Process 12 requested read of page 18 at time 11.804761
+Process 12 seeking write of table 18 but frame is max | Clearing victim of address 9
+Process 12 requested write of page 2 at time 11.818881
+Process 12 seeking write of table 2 but frame is max | Clearing victim of address 10
+Process 12 requested read of page 23 at time 11.832921
+Process 12 seeking write of table 23 but frame is max | Clearing victim of address 11
+Process 12 requested write of page 26 at time 11.847001
+Process 12 seeking write of table 26 but frame is max | Clearing victim of address 12
+Process 12 requested read of page 4 at time 11.861041
+Process 12 seeking write of table 4 but frame is max | Clearing victim of address 13
+Process 12 requested write of page 10 at time 11.875121
+Process 12 seeking write of table 10 but frame is max | Clearing victim of address 14
+Process 12 requested write of page 24 at time 11.889161
+Process 12 seeking write of table 24 but frame is max | Clearing victim of address 15
+Process 12 requested write of page 19 at time 11.903321
+Process 12 seeking write of table 19 but frame is max | Clearing victim of address 16
+Process 12 requested write of page 6 at time 11.917441
+Process 12 seeking write of table 6 but frame is max | Clearing victim of address 17
+Process 13 requested write of page 8 at time 11.931521
+Process 13 seeking write of table 8 but frame is max | Clearing victim of address 0
+Process 13 requested write of page 22 at time 11.945601
+Process 13 seeking write of table 22 but frame is max | Clearing victim of address 1
+Process 12 requested read of page 12 at time 11.959641
+Process 12 seeking write of table 12 but frame is max | Clearing victim of address 19
+Process 13 requested write of page 17 at time 11.973681
+Process 13 seeking write of table 17 but frame is max | Clearing victim of address 2
+Process 13 requested read of page 15 at time 11.987761
+Process 13 seeking write of table 15 but frame is max | Clearing victim of address 3
+Process 12 requested write of page 28 at time 12.001801
+Process 12 seeking write of table 28 but frame is max | Clearing victim of address 18
+Process 12 requested write of page 0 at time 12.015922
+Process 12 seeking write of table 0 but frame is max | Clearing victim of address 21
+Process 13 requested write of page 27 at time 12.029962
+Process 13 seeking write of table 27 but frame is max | Clearing victim of address 5
+Process 13 requested write of page 5 at time 12.044002
+Process 13 seeking write of table 5 but frame is max | Clearing victim of address 6
+Process 13 requested read of page 25 at time 12.058082
+Process 13 seeking write of table 25 but frame is max | Clearing victim of address 8
+Process 12 requested write of page 13 at time 12.072122
+Process 12 seeking write of table 13 but frame is max | Clearing victim of address 20
+Process 12 requested write of page 21 at time 12.086202
+Process 12 seeking write of table 21 but frame is max | Clearing victim of address 25
+Process 13 requested write of page 2 at time 12.100242
+Process 13 seeking write of table 2 but frame is max | Clearing victim of address 10
+Process 12 requested read of page 11 at time 12.114282
+Process 12 seeking write of table 11 but frame is max | Clearing victim of address 26
+Process 13 requested write of page 26 at time 12.128322
+Process 13 seeking write of table 26 but frame is max | Clearing victim of address 12
+Process 12 requested write of page 3 at time 12.142402
+Process 12 seeking write of table 3 but frame is max | Clearing victim of address 27
+Process 13 requested write of page 10 at time 12.156442
+Process 13 seeking write of table 10 but frame is max | Clearing victim of address 14
+Process 12 requested write of page 30 at time 12.170482
+Process 12 seeking write of table 30 but frame is max | Clearing victim of address 22
+Process 13 requested write of page 18 at time 12.184921
+Process 13 seeking write of table 18 but frame is max | Clearing victim of address 9
+Process 13 requested write of page 13 at time 12.199001
+Process 13 seeking write of table 13 but frame is max | Clearing victim of address 20
+Process 12 requested write of page 14 at time 12.213041
+Process 12 seeking write of table 14 but frame is max | Clearing victim of address 48
+Process 13 requested write of page 0 at time 12.227081
+Process 13 seeking write of table 0 but frame is max | Clearing victim of address 21
+Process 12 requested read of page 20 at time 12.241161
+Process 12 seeking write of table 20 but frame is max | Clearing victim of address 28
+Process 13 requested write of page 21 at time 12.255522
+Process 13 seeking write of table 21 but frame is max | Clearing victim of address 25
+Process 13 requested write of page 30 at time 12.269642
+Process 13 seeking write of table 30 but frame is max | Clearing victim of address 22
+Process 13 requested write of page 4 at time 12.283921
+Process 13 seeking write of table 4 but frame is max | Clearing victim of address 13
+Process 13 requested write of page 20 at time 12.298041
+Process 13 seeking write of table 20 but frame is max | Clearing victim of address 28
+Process 12 requested write of page 29 at time 12.312161
+Process 12 seeking write of table 29 but frame is max | Clearing victim of address 57
+Process 13 requested write of page 12 at time 12.326282
+Process 13 seeking write of table 12 but frame is max | Clearing victim of address 19
+Process 13 requested write of page 6 at time 12.340322
+Process 13 seeking write of table 6 but frame is max | Clearing victim of address 17
+Process 13 requested write of page 14 at time 12.354402
+Process 13 seeking write of table 14 but frame is max | Clearing victim of address 48
+Process 13 requested write of page 28 at time 12.368482
+Process 13 seeking write of table 28 but frame is max | Clearing victim of address 18
+Process 13 requested write of page 19 at time 12.382682
+Process 13 seeking write of table 19 but frame is max | Clearing victim of address 16
+Process 13 requested write of page 7 at time 12.397121
+Process 13 seeking write of table 7 but frame is max | Clearing victim of address 7
+Process 13 requested write of page 29 at time 12.411522
+Process 13 seeking write of table 29 but frame is max | Clearing victim of address 57
+Process 13 requested write of page 31 at time 12.425642
+Process 13 seeking write of table 31 but frame is max | Clearing victim of address 58
+Process 12 requested write of page 16 at time 12.440042
+Process 12 seeking write of table 16 but frame is max | Clearing victim of address 24
+Process 13 requested write of page 24 at time 12.454282
+Process 13 seeking write of table 24 but frame is max | Clearing victim of address 15
+Process 13 requested write of page 16 at time 12.468522
+Process 13 seeking write of table 16 but frame is max | Clearing victim of address 24
+Process 13 requested write of page 3 at time 12.482562
+Process 13 seeking write of table 3 but frame is max | Clearing victim of address 27
+Process 13 requested read of page 1 at time 12.497362
+Process 13 seeking write of table 1 but frame is max | Clearing victim of address 4
+Process 13 requested write of page 23 at time 12.511562
+Process 13 seeking write of table 23 but frame is max | Clearing victim of address 11
+Process 13 requested write of page 11 at time 12.527002
+Process 13 seeking write of table 11 but frame is max | Clearing victim of address 26
+Process 13 requested write of page 9 at time 12.541642
+Process 13 seeking write of table 9 but frame is max | Clearing victim of address 23
+Process 12 requested write of page 9 at time 12.561842
+Process 12 seeking write of table 9 but frame is max | Clearing victim of address 23
+Process 12 requested write of page 31 at time 12.590362
+Process 12 seeking write of table 31 but frame is max | Clearing victim of address 58
+Process 14 requested write of page 8 at time 12.871162
+Process 14 seeking write of table 8 but frame is max | Clearing victim of address 0
+Process 14 requested write of page 22 at time 12.885242
+Process 14 seeking write of table 22 but frame is max | Clearing victim of address 1
+Process 14 requested write of page 17 at time 12.899322
+Process 14 seeking write of table 17 but frame is max | Clearing victim of address 2
+Process 14 requested read of page 15 at time 12.913402
+Process 14 seeking write of table 15 but frame is max | Clearing victim of address 3
+Process 14 requested write of page 1 at time 12.927442
+Process 14 seeking write of table 1 but frame is max | Clearing victim of address 4
+Process 14 requested write of page 27 at time 12.941562
+Process 14 seeking write of table 27 but frame is max | Clearing victim of address 5
+Process 14 requested write of page 5 at time 12.955602
+Process 14 seeking write of table 5 but frame is max | Clearing victim of address 6
+Process 14 requested write of page 7 at time 12.969682
+Process 14 seeking write of table 7 but frame is max | Clearing victim of address 7
+Process 14 requested read of page 25 at time 12.983722
+Process 14 seeking write of table 25 but frame is max | Clearing victim of address 8
+Process 14 requested read of page 18 at time 12.997762
+Process 14 seeking write of table 18 but frame is max | Clearing victim of address 9
+Process 14 requested write of page 2 at time 13.011882
+Process 14 seeking write of table 2 but frame is max | Clearing victim of address 10
+Process 14 requested read of page 23 at time 13.025922
+Process 14 seeking write of table 23 but frame is max | Clearing victim of address 11
+Process 14 requested write of page 26 at time 13.039962
+Process 14 seeking write of table 26 but frame is max | Clearing victim of address 12
+Process 14 requested read of page 4 at time 13.054002
+Process 14 seeking write of table 4 but frame is max | Clearing victim of address 13
+Process 14 requested write of page 10 at time 13.068082
+Process 14 seeking write of table 10 but frame is max | Clearing victim of address 14
+Process 14 requested write of page 24 at time 13.082122
+Process 14 seeking write of table 24 but frame is max | Clearing victim of address 15
+Process 15 requested write of page 8 at time 13.096162
+Process 15 seeking write of table 8 but frame is max | Clearing victim of address 0
+Process 15 requested write of page 22 at time 13.110242
+Process 15 seeking write of table 22 but frame is max | Clearing victim of address 1
+Process 14 requested write of page 19 at time 13.124282
+Process 14 seeking write of table 19 but frame is max | Clearing victim of address 16
+Process 15 requested write of page 17 at time 13.138322
+Process 15 seeking write of table 17 but frame is max | Clearing victim of address 2
+Process 14 requested write of page 6 at time 13.152402
+Process 14 seeking write of table 6 but frame is max | Clearing victim of address 17
+Process 14 requested write of page 28 at time 13.166522
+Process 14 seeking write of table 28 but frame is max | Clearing victim of address 18
+Process 15 requested write of page 27 at time 13.180562
+Process 15 seeking write of table 27 but frame is max | Clearing victim of address 5
+Process 14 requested read of page 12 at time 13.194602
+Process 14 seeking write of table 12 but frame is max | Clearing victim of address 19
+Process 15 requested write of page 7 at time 13.208642
+Process 15 seeking write of table 7 but frame is max | Clearing victim of address 7
+Process 14 requested write of page 0 at time 13.222722
+Process 14 seeking write of table 0 but frame is max | Clearing victim of address 21
+Process 14 requested write of page 30 at time 13.236842
+Process 14 seeking write of table 30 but frame is max | Clearing victim of address 22
+Process 15 requested read of page 23 at time 13.250882
+Process 15 seeking write of table 23 but frame is max | Clearing victim of address 11
+Process 14 requested write of page 9 at time 13.264922
+Process 14 seeking write of table 9 but frame is max | Clearing victim of address 23
+Process 14 requested write of page 16 at time 13.278962
+Process 14 seeking write of table 16 but frame is max | Clearing victim of address 24
+Process 15 requested read of page 1 at time 13.293002
+Process 15 seeking write of table 1 but frame is max | Clearing victim of address 4
+Process 14 requested write of page 13 at time 13.307082
+Process 14 seeking write of table 13 but frame is max | Clearing victim of address 20
+Process 15 requested write of page 26 at time 13.321162
+Process 15 seeking write of table 26 but frame is max | Clearing victim of address 12
+Process 15 requested write of page 19 at time 13.335242
+Process 15 seeking write of table 19 but frame is max | Clearing victim of address 16
+Process 15 requested write of page 10 at time 13.349282
+Process 15 seeking write of table 10 but frame is max | Clearing victim of address 14
+Process 15 requested write of page 6 at time 13.363362
+Process 15 seeking write of table 6 but frame is max | Clearing victim of address 17
+Process 15 requested read of page 12 at time 13.377563
+Process 15 seeking write of table 12 but frame is max | Clearing victim of address 19
+Process 15 requested write of page 4 at time 13.391763
+Process 15 seeking write of table 4 but frame is max | Clearing victim of address 13
+Process 15 requested write of page 30 at time 13.405803
+Process 15 seeking write of table 30 but frame is max | Clearing victim of address 22
+Process 15 requested write of page 9 at time 13.419882
+Process 15 seeking write of table 9 but frame is max | Clearing victim of address 23
+Process 15 requested write of page 13 at time 13.434042
+Process 15 seeking write of table 13 but frame is max | Clearing victim of address 20
+Process 14 requested read of page 20 at time 13.448122
+Process 14 seeking write of table 20 but frame is max | Clearing victim of address 28
+Process 15 requested read of page 11 at time 13.462202
+Process 15 seeking write of table 11 but frame is max | Clearing victim of address 26
+Process 15 requested write of page 24 at time 13.476522
+Process 15 seeking write of table 24 but frame is max | Clearing victim of address 15
+Process 14 requested write of page 3 at time 13.490602
+Process 14 seeking write of table 3 but frame is max | Clearing victim of address 27
+Process 15 requested read of page 15 at time 13.504642
+Process 15 seeking write of table 15 but frame is max | Clearing victim of address 3
+Process 15 requested read of page 21 at time 13.518723
+Process 15 seeking write of table 21 but frame is max | Clearing victim of address 25
+Process 15 requested write of page 14 at time 13.532963
+Process 15 seeking write of table 14 but frame is max | Clearing victim of address 48
+Process 15 requested write of page 28 at time 13.547043
+Process 15 seeking write of table 28 but frame is max | Clearing victim of address 18
+Process 15 requested read of page 20 at time 13.561083
+Process 15 seeking write of table 20 but frame is max | Clearing victim of address 28
+Process 15 requested write of page 5 at time 13.575202
+Process 15 seeking write of table 5 but frame is max | Clearing victim of address 6
+Process 14 requested write of page 31 at time 13.589243
+Process 14 seeking write of table 31 but frame is max | Clearing victim of address 58
+Process 14 requested write of page 14 at time 13.603362
+Process 14 seeking write of table 14 but frame is max | Clearing victim of address 48
+Process 15 requested write of page 2 at time 13.617522
+Process 15 seeking write of table 2 but frame is max | Clearing victim of address 10
+Process 14 requested write of page 21 at time 13.631562
+Process 14 seeking write of table 21 but frame is max | Clearing victim of address 25
+Process 15 requested write of page 31 at time 13.646202
+Process 15 seeking write of table 31 but frame is max | Clearing victim of address 58
+Process 15 requested write of page 0 at time 13.660883
+Process 15 seeking write of table 0 but frame is max | Clearing victim of address 21
+Process 15 requested write of page 25 at time 13.675202
+Process 15 seeking write of table 25 but frame is max | Clearing victim of address 8
+Process 15 requested write of page 3 at time 13.689242
+Process 15 seeking write of table 3 but frame is max | Clearing victim of address 27
+Process 15 requested read of page 18 at time 13.703403
+Process 15 seeking write of table 18 but frame is max | Clearing victim of address 9
+Process 14 requested read of page 11 at time 13.718323
+Process 14 seeking write of table 11 but frame is max | Clearing victim of address 26
+Process 15 requested write of page 29 at time 13.732642
+Process 15 seeking write of table 29 but frame is max | Clearing victim of address 57
+Process 14 requested write of page 29 at time 13.747482
+Process 14 seeking write of table 29 but frame is max | Clearing victim of address 57
+Process 15 requested read of page 16 at time 13.763002
+Process 15 seeking write of table 16 but frame is max | Clearing victim of address 24
+Process 16 requested write of page 8 at time 14.560203
+Process 16 seeking write of table 8 but frame is max | Clearing victim of address 0
+Process 16 requested write of page 22 at time 14.574283
+Process 16 seeking write of table 22 but frame is max | Clearing victim of address 1
+Process 0 requested read of page 0 at time 14.588323
+Process 0 seeking write of table 0 but frame is max | Clearing victim of address 21
+Process 16 requested write of page 17 at time 14.602363
+Process 16 seeking write of table 17 but frame is max | Clearing victim of address 2
+Process 16 requested read of page 15 at time 14.616443
+Process 16 seeking write of table 15 but frame is max | Clearing victim of address 3
+Process 16 requested write of page 1 at time 14.630483
+Process 16 seeking write of table 1 but frame is max | Clearing victim of address 4
+Process 16 requested write of page 27 at time 14.644603
+Process 16 seeking write of table 27 but frame is max | Clearing victim of address 5
+Process 16 requested write of page 5 at time 14.658643
+Process 16 seeking write of table 5 but frame is max | Clearing victim of address 6
+Process 16 requested write of page 7 at time 14.672683
+Process 16 seeking write of table 7 but frame is max | Clearing victim of address 7
+Process 16 requested read of page 25 at time 14.686723
+Process 16 seeking write of table 25 but frame is max | Clearing victim of address 8
+Process 16 requested read of page 18 at time 14.700763
+Process 16 seeking write of table 18 but frame is max | Clearing victim of address 9
+Process 16 requested write of page 2 at time 14.714883
+Process 16 seeking write of table 2 but frame is max | Clearing victim of address 10
+Process 16 requested read of page 23 at time 14.728923
+Process 16 seeking write of table 23 but frame is max | Clearing victim of address 11
+Process 16 requested write of page 26 at time 14.742963
+Process 16 seeking write of table 26 but frame is max | Clearing victim of address 12
+Process 16 requested read of page 4 at time 14.757003
+Process 16 seeking write of table 4 but frame is max | Clearing victim of address 13
+Process 16 requested write of page 10 at time 14.771083
+Process 16 seeking write of table 10 but frame is max | Clearing victim of address 14
+Process 16 requested write of page 24 at time 14.785123
+Process 16 seeking write of table 24 but frame is max | Clearing victim of address 15
+Process 16 requested write of page 19 at time 14.799283
+Process 16 seeking write of table 19 but frame is max | Clearing victim of address 16
+Process 16 requested write of page 6 at time 14.813403
+Process 16 seeking write of table 6 but frame is max | Clearing victim of address 17
+Process 16 requested write of page 28 at time 14.827522
+Process 16 seeking write of table 28 but frame is max | Clearing victim of address 18
+Process 16 requested read of page 12 at time 14.841602
+Process 16 seeking write of table 12 but frame is max | Clearing victim of address 19
+Process 16 requested write of page 13 at time 14.855642
+Process 16 seeking write of table 13 but frame is max | Clearing victim of address 20
+Process 16 requested write of page 0 at time 14.869762
+Process 16 seeking write of table 0 but frame is max | Clearing victim of address 21
+Process 16 requested write of page 30 at time 14.883883
+Process 16 seeking write of table 30 but frame is max | Clearing victim of address 22
+Process 16 requested write of page 9 at time 14.897963
+Process 16 seeking write of table 9 but frame is max | Clearing victim of address 23
+Process 16 requested write of page 16 at time 14.912003
+Process 16 seeking write of table 16 but frame is max | Clearing victim of address 24
+Process 16 requested write of page 21 at time 14.926203
+Process 16 seeking write of table 21 but frame is max | Clearing victim of address 25
+Process 17 requested write of page 8 at time 14.940243
+Process 17 seeking write of table 8 but frame is max | Clearing victim of address 0
+Process 17 requested write of page 22 at time 14.954323
+Process 17 seeking write of table 22 but frame is max | Clearing victim of address 1
+Process 17 requested write of page 17 at time 14.968403
+Process 17 seeking write of table 17 but frame is max | Clearing victim of address 2
+Process 17 requested write of page 15 at time 14.982603
+Process 17 seeking write of table 15 but frame is max | Clearing victim of address 3
+Process 16 requested write of page 20 at time 14.996683
+Process 16 seeking write of table 20 but frame is max | Clearing victim of address 28
+Process 17 requested write of page 7 at time 15.010723
+Process 17 seeking write of table 7 but frame is max | Clearing victim of address 7
+Process 17 requested read of page 18 at time 15.024803
+Process 17 seeking write of table 18 but frame is max | Clearing victim of address 9
+Process 17 requested write of page 2 at time 15.038923
+Process 17 seeking write of table 2 but frame is max | Clearing victim of address 10
+Process 17 requested write of page 26 at time 15.053003
+Process 17 seeking write of table 26 but frame is max | Clearing victim of address 12
+Process 16 requested write of page 14 at time 15.067043
+Process 16 seeking write of table 14 but frame is max | Clearing victim of address 48
+Process 17 requested write of page 24 at time 15.081163
+Process 17 seeking write of table 24 but frame is max | Clearing victim of address 15
+Process 17 requested write of page 1 at time 15.095203
+Process 17 seeking write of table 1 but frame is max | Clearing victim of address 4
+Process 17 requested write of page 19 at time 15.109323
+Process 17 seeking write of table 19 but frame is max | Clearing victim of address 16
+Process 17 requested read of page 27 at time 15.123403
+Process 17 seeking write of table 27 but frame is max | Clearing victim of address 5
+Process 17 requested write of page 6 at time 15.137443
+Process 17 seeking write of table 6 but frame is max | Clearing victim of address 17
+Process 17 requested write of page 28 at time 15.151563
+Process 17 seeking write of table 28 but frame is max | Clearing victim of address 18
+Process 17 requested read of page 12 at time 15.165643
+Process 17 seeking write of table 12 but frame is max | Clearing victim of address 19
+Process 17 requested write of page 4 at time 15.179843
+Process 17 seeking write of table 4 but frame is max | Clearing victim of address 13
+Process 17 requested write of page 0 at time 15.193923
+Process 17 seeking write of table 0 but frame is max | Clearing victim of address 21
+Process 17 requested write of page 9 at time 15.207963
+Process 17 seeking write of table 9 but frame is max | Clearing victim of address 23
+Process 17 requested write of page 16 at time 15.222003
+Process 17 seeking write of table 16 but frame is max | Clearing victim of address 24
+Process 17 requested write of page 13 at time 15.236123
+Process 17 seeking write of table 13 but frame is max | Clearing victim of address 20
+Process 16 requested write of page 29 at time 15.250163
+Process 16 seeking write of table 29 but frame is max | Clearing victim of address 57
+Process 16 requested write of page 31 at time 15.264283
+Process 16 seeking write of table 31 but frame is max | Clearing victim of address 58
+Process 17 requested write of page 30 at time 15.278323
+Process 17 seeking write of table 30 but frame is max | Clearing victim of address 22
+Process 16 requested write of page 11 at time 15.292363
+Process 16 seeking write of table 11 but frame is max | Clearing victim of address 26
+Process 17 requested write of page 3 at time 15.306403
+Process 17 seeking write of table 3 but frame is max | Clearing victim of address 27
+Process 17 requested write of page 20 at time 15.320683
+Process 17 seeking write of table 20 but frame is max | Clearing victim of address 28
+Process 17 requested read of page 21 at time 15.334803
+Process 17 seeking write of table 21 but frame is max | Clearing victim of address 25
+Process 17 requested write of page 10 at time 15.349003
+Process 17 seeking write of table 10 but frame is max | Clearing victim of address 14
+Process 16 requested write of page 3 at time 15.363203
+Process 16 seeking write of table 3 but frame is max | Clearing victim of address 27
+Process 17 requested read of page 5 at time 15.378324
+Process 17 seeking write of table 5 but frame is max | Clearing victim of address 6
+Process 17 requested write of page 11 at time 15.392364
+Process 17 seeking write of table 11 but frame is max | Clearing victim of address 26
+Process 17 requested write of page 25 at time 15.407283
+Process 17 seeking write of table 25 but frame is max | Clearing victim of address 8
+Process 17 requested write of page 14 at time 15.421523
+Process 17 seeking write of table 14 but frame is max | Clearing victim of address 48
+Process 17 requested write of page 29 at time 15.436723
+Process 17 seeking write of table 29 but frame is max | Clearing victim of address 57
+Process 17 requested write of page 23 at time 15.450843
+Process 17 seeking write of table 23 but frame is max | Clearing victim of address 11
+Process 17 requested read of page 31 at time 15.465563
+Process 17 seeking write of table 31 but frame is max | Clearing victim of address 58
